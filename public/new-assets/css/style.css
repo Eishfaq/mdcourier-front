@@ -112,8 +112,9 @@ h1 {
 }
 
 h2 {
-    font-size: 50px;
-    line-height: 60px
+    font-size: 36px;
+    line-height: 45px;
+    font-weight: 600;
 }
 
 h3 {
@@ -1736,7 +1737,7 @@ p {
     float: right;
     background-repeat: no-repeat;
     background-position: right;
-    background-size: 42%
+    background-size: 42%;
     -webkit-animation: ani-rotate 50s linear infinite;
     animation: ani-rotate 50s linear infinite;
 }
@@ -1750,7 +1751,7 @@ p {
     float: right;
     background-repeat: no-repeat;
     background-position: right;
-    background-size: 42%
+    background-size: 42%;
     -webkit-animation: ani-rotate 50s linear infinite;
     animation: ani-rotate 50s linear infinite;
 }
@@ -2882,6 +2883,11 @@ p {
     padding: 35px 0;
 }
 
+.footer-copyright a {
+    color: #e8e1e1;
+    font-weight: 600;
+}
+
 .footer-social li {
     display: inline-block;
     margin-left: 10px;
@@ -3424,5 +3430,5 @@ p {
 }
 
 .demo-header-cont a:hover {
-    background-size: 200% auto
+    background-size: 200% auto;
 }
