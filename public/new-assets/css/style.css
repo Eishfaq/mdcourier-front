@@ -370,7 +370,7 @@ p {
 ---------------------------------------------------------------------------------------*/
 
 #home-area.bg-1 {
-    background-image: url(../images/home-bg-1.png);
+    background-image: url(../images/home-bg-1.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
     margin-bottom: 60px
@@ -2657,7 +2657,7 @@ p {
 }
 
 #contact-area.bg-1 {
-    background-image: url(../images/contact-bg-1.png);
+    background-image: url(../images/get_in_touch.png);
 }
 
 #contact-area.bg-1 .contact-area-circle img{
